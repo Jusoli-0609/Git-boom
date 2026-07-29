@@ -427,3 +427,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+int main(){
+
+
+
+cout<<"나는섹시하다"<<endl;
+}
